@@ -42,4 +42,7 @@ A simple machine learning project that classifies emails as **spam** or **not sp
 1. Install required libraries:
    ```bash
    pip install pandas nltk scikit-learn
+   Run the script:
+   python emaildetect.py
+
 
